@@ -72,7 +72,5 @@ site with no build step, so the committed `core.wasm` and `season.bin` are used 
 
 ## Team
 
-- [Name] · [Roll no.]
-- [Name] · [Roll no.]
-- [Name] · [Roll no.]
-- [Name] · [Roll no.]
+- Sanyog Pardeshi · 16010425081 · A3
+
