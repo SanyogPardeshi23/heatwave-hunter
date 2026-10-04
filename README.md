@@ -70,7 +70,7 @@ site with no build step, so the committed `core.wasm` and `season.bin` are used 
   resolution daily gridded temperature data set (1969–2005) for the Indian region.*
   Atmospheric Science Letters. DOI 10.1002/asl.232
 
-## Team
+## Author
 
 - Sanyog Pardeshi · 16010425081 · A3
 
