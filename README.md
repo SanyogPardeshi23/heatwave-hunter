@@ -1,6 +1,6 @@
 # Heatwave Hunter
 
-Data Structures lab mini-project · AI use case **KJS-CES-01 — Climate Intelligence for Heatwave Monitoring, Prediction and Early Warning**
+Data Structures lab mini-project · AI use case **KJS-CES-01 Climate Intelligence for Heatwave Monitoring, Prediction and Early Warning**
 
 Real daily maximum-temperature data from **IMD Pune (2015–2025)**, run through all eight lab experiments.
 Every operation is written in **C with no standard library** and compiled to **WebAssembly**; the
