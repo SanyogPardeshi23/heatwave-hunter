@@ -73,4 +73,7 @@ site with no build step, so the committed `core.wasm` and `season.bin` are used 
 ## Author
 
 - Sanyog Pardeshi · 16010425081 · A3
-
+- Anamika Prasad · 16010425081 · A3
+- Eesha Patil · 16010425081 · A3
+- Nidhi Phalak · 16010425081 · A3
+- Anchita Sahu · 16010425081 · A3
